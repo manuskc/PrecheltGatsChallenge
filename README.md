@@ -15,4 +15,4 @@ My conclusion:
 well within best time for LISP. In terms of lines of code - may be java is bloated, on the positive side it is very much readable!
 
 More story:
-http://manuskc.com/post/64309585053/the-prechelt-gats-challenge
+http://manuskc.com/post/the-prechelt-gats-challenge
